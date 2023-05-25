@@ -22,8 +22,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SleeptrackSDK",
-            url: "https://github.com/aseanap/testSwiftPackage/releases/download/v0.1.0/SleeptrackSDK.xcframework.zip",
-            checksum: "77017e8e7e41072d62889552337d648fd91c8cfd2ce3bb9ae126cc313fe033fe"
+            url: "https://github.com/aseanap/testSwiftPackage/releases/download/v0.1.1/SleeptrackSDK.xcframework.zip",
+            checksum: "295ce283c65153d9fb029f7e8c4cea73559b9c70f5b41bfe9ce55404b3a128b9"
         )
     ]
 )
